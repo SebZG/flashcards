@@ -4,4 +4,4 @@
 ---
 ## Technologies
 - React
-- Redux
+- Redux Tool Kit
